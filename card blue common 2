@@ -1,0 +1,25 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 12:59:40
+	time_modified: 2022-10-12 14:49:36
+	name: Blue Common 2
+	casting_cost: 1U
+	image: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Wizard</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rule_text:
+		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Blue Common 2</nospellcheck></atom-cardname> enters the battlefield, you get 1 drink counter.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: Dalle 2
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

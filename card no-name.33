@@ -1,0 +1,23 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 13:07:09
+	time_modified: 2022-09-26 13:17:46
+	casting_cost: XG
+	image: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Hydra</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rule_text:
+		Enters the battlefield with X drink counters.
+		This creatures power and toughness are equal to the number of drink counters it has.
+	flavor_text: <i-flavor></i-flavor>
+	power: *
+	toughness: *
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

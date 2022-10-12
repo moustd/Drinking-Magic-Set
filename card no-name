@@ -1,0 +1,23 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 12:41:41
+	time_modified: 2022-10-12 14:49:41
+	name: 
+	casting_cost: 1R
+	image: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Goblin</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rule_text: When this creature enters the battlefield, put a drink counter on you - Move a drink counter from you or a creature you control onto this card: Put two +1/+1 counters on this card
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

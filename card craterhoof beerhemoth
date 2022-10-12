@@ -1,0 +1,27 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 13:19:01
+	time_modified: 2022-10-12 14:48:49
+	name: Craterhoof Beerhemoth
+	casting_cost: 3GG
+	image: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Beast</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck>Trample</nospellcheck></kw-a>, <kw-a><nospellcheck>Haste</nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Craterhoof Beerhemoth</nospellcheck></atom-cardname> Enters the Battlefield with <kw-a><nospellcheck><param-number>2</param-number> <kw-a>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on it.
+		When <atom-cardname><nospellcheck>Craterhoof Beerhemoth</nospellcheck></atom-cardname> enters the battlefield, creatures you control gain +X/+X , <kw-a><nospellcheck>Trample</nospellcheck></kw-a> and <kw-a><nospellcheck>Haste</nospellcheck></kw-a>, where X is the highest number of <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on a creature you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

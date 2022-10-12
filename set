@@ -1,0 +1,82 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2020-04-25
+stylesheet: m15
+stylesheet_version: 2018-02-09
+set_info:
+	title: Drinking Set
+	set_code: DS1
+	set_language: EN
+	symbol: symbol7.mse-symbol
+	masterpiece_symbol: 
+styling:
+	magic-m15:
+		color_indicator_dot: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+include_file: card drunk goblin
+include_file: card no-name
+include_file: card no-name.1
+include_file: card no-name.2
+include_file: card no-name.3
+include_file: card no-name.4
+include_file: card no-name.5
+include_file: card no-name.6
+include_file: card no-name.7
+include_file: card white common 1
+include_file: card white uncommon 1
+include_file: card white uncommon 2
+include_file: card no-name.8
+include_file: card no-name.9
+include_file: card no-name.10
+include_file: card no-name.11
+include_file: card no-name.12
+include_file: card no-name.13
+include_file: card no-name.14
+include_file: card black rare creature 1
+include_file: card no-name.15
+include_file: card no-name.16
+include_file: card no-name.17
+include_file: card no-name.18
+include_file: card no-name.19
+include_file: card blue common 1
+include_file: card blue uncommon 1
+include_file: card blue common 2
+include_file: card thing in the beer
+include_file: card no-name.20
+include_file: card no-name.21
+include_file: card no-name.22
+include_file: card no-name.23
+include_file: card no-name.24
+include_file: card no-name.25
+include_file: card green uncommon 2
+include_file: card green uncommon 1
+include_file: card no-name.26
+include_file: card no-name.27
+include_file: card no-name.28
+include_file: card no-name.29
+include_file: card no-name.30
+include_file: card no-name.31
+include_file: card craterhoof beerhemoth
+include_file: card no-name.32
+keyword:
+	keyword: Consume
+	match: Consume <atom-param>number</atom-param>
+	reminder: Remove {english_number(param1)} Drink Counters from Yourself or a permanent you control.
+	rules: 
+	mode: action
+keyword:
+	keyword: Drink Counter
+	match: Drink Counter<atom-param>*s</atom-param>
+	reminder: Whenever Drink Counters are removed from a Permanent you control, you must drink equal to how many were removed.
+	rules: 
+	mode: core
+keyword:
+	keyword: Drink Counter
+	match: <atom-param>number</atom-param> Drink Counter<atom-param>*s</atom-param>
+	reminder: Whenever {param1} Drink Counter{param2} are removed from a Permanent you control, you must drink {param1}.
+	rules: 
+	mode: core
+version_control:
+	type: none
+apprentice_code: 

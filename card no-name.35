@@ -1,0 +1,23 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 13:19:01
+	time_modified: 2022-09-27 11:00:31
+	casting_cost: 3GG
+	image: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Beast</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rule_text:
+		<kw-a><nospellcheck>Trample</nospellcheck></kw-a>
+		Whenever a creature you control dies, if it had drink counters, put drink counters on this creature equal to the number of drink counters it had.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

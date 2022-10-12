@@ -1,0 +1,24 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 12:45:30
+	time_modified: 2022-10-11 14:00:02
+	name: Test 1
+	casting_cost: 1W
+	image: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Bard</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rule_text:
+		When <atom-cardname><nospellcheck>Test 1</nospellcheck></atom-cardname> creature attacks, tap target creature with a drink counter.
+		<kw-A><nospellcheck>Consume <param-number>1</param-number></nospellcheck>: Destroy target Creature<atom-reminder-action> <i-auto>(Remove <param-number>one</param-number> Drink Counters from Yourself or a permanent you control, then take a drink to activate this ability.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

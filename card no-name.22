@@ -1,0 +1,23 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 13:02:58
+	time_modified: 2022-10-12 14:49:29
+	casting_cost: 2U
+	image: 
+	super_type: <word-list-type>Enchantment</word-list-type>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
+	rule_text:
+		<kw-a><nospellcheck>Enchant <param-name>Creature</param-name></nospellcheck></kw-a>
+		Enchanted creature get +1/+1 and <kw-a><nospellcheck>flying</nospellcheck></kw-a>.
+		When enchanted creature attacks, scry equal to the number of <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on enchanted creature, then draw.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

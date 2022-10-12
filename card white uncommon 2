@@ -1,0 +1,24 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 12:50:48
+	time_modified: 2022-10-12 14:49:10
+	name: White Uncommon 2
+	casting_cost: 2W
+	image: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Bard</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rarity: uncommon
+	rule_text: When one or more creatures with a drink counter attacks or blocks,  you gain 2 life
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
