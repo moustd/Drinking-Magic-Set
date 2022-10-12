@@ -2,14 +2,18 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2022-09-26 13:04:45
-	time_modified: 2022-10-12 14:49:08
-	casting_cost: 3U
+	time_created: 2022-09-26 13:19:01
+	time_modified: 2022-10-12 14:48:41
+	casting_cost: 7G
 	image: 
-	super_type: <word-list-type>Sorcery</word-list-type>
-	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Return all creatures with <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on them to players hands
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Beast</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rule_text:
+		<kw-a><nospellcheck>Trample</nospellcheck></kw-a>, <kw-a><nospellcheck>Hexproof</nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>CARDNAME</nospellcheck></atom-cardname> costs <sym-auto>X</sym-auto> less, where X is the the number of <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on a creature you control.
 	flavor_text: <i-flavor></i-flavor>
+	power: 8
+	toughness: 8
 	card_code_text: 
 	illustrator: Dalle 2
 	copyright: 

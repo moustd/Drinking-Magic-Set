@@ -1,0 +1,26 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 13:07:09
+	time_modified: 2022-10-12 17:17:43
+	name: Green Uncommon Creature 3
+	casting_cost: XG
+	image: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Hydra</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rarity: uncommon
+	rule_text:
+		Enters the battlefield with X <kw-0><nospellcheck>Drink Counter<param-*s><atom-kwpph>*s</atom-kwpph></param-*s></nospellcheck></kw-0>.
+		The Power and Toughness of <atom-cardname><nospellcheck>Green Uncommon Creature 3</nospellcheck></atom-cardname> are equal to the number of <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> it has.
+	flavor_text: <i-flavor></i-flavor>
+	power: *
+	toughness: *
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

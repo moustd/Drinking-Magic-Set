@@ -1,0 +1,23 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 12:42:39
+	time_modified: 2022-10-12 16:30:38
+	name: Jägerbomb
+	casting_cost: 1R
+	image: 
+	super_type: <word-list-type>Instant</word-list-type>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		You get a <kw-a><nospellcheck>Drink Counter<param-*s><atom-kwpph>*s</atom-kwpph></param-*s></nospellcheck></kw-a>.
+		Deal damage to target creature equal to the number of <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a>  you have.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

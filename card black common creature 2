@@ -2,18 +2,17 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2022-09-26 12:55:37
-	time_modified: 2022-10-12 16:10:41
-	name: Black Rare Creature 1
-	casting_cost: 3BB
+	time_created: 2022-09-26 12:54:28
+	time_modified: 2022-10-12 16:28:08
+	name: Black Common Creature 2
+	casting_cost: B
 	image: 
 	super_type: <word-list-type>Creature</word-list-type>
 	sub_type: <word-list-race>Vampire</word-list-race><soft> </soft><word-list-class></word-list-class>
-	rarity: rare
-	rule_text: This creature enters the battlefield with a drink counter. On each players upkeep, they sacrifice a permanent with a drink counter on it
+	rule_text: Whenever a <kw-a><nospellcheck>Drink Counter<param-*s><atom-kwpph>*s</atom-kwpph></param-*s></nospellcheck></kw-a> is removed from a permanent you control, opponents lose 1 life for each Counter removed.
 	flavor_text: <i-flavor></i-flavor>
-	power: 3
-	toughness: 4
+	power: 1
+	toughness: 1
 	card_code_text: 
 	illustrator: Dalle 2
 	copyright: 

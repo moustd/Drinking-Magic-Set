@@ -15,50 +15,51 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 include_file: card drunk goblin
+include_file: card red rare creature 1
+include_file: card red rare creature 2
+include_file: card jägerbomb
+include_file: card red uncommon sorcery 1
+include_file: card red uncommon sorcery 2
 include_file: card no-name
 include_file: card no-name.1
 include_file: card no-name.2
+include_file: card white common creature 1
+include_file: card white uncommon creature 1
+include_file: card white uncommon 2
 include_file: card no-name.3
 include_file: card no-name.4
 include_file: card no-name.5
 include_file: card no-name.6
+include_file: card black common creature 1
+include_file: card black common creature 2
+include_file: card black common creature 2.1
+include_file: card black rare creature 1
 include_file: card no-name.7
-include_file: card white common 1
-include_file: card white uncommon 1
-include_file: card white uncommon 2
 include_file: card no-name.8
 include_file: card no-name.9
 include_file: card no-name.10
 include_file: card no-name.11
-include_file: card no-name.12
-include_file: card no-name.13
-include_file: card no-name.14
-include_file: card black rare creature 1
-include_file: card no-name.15
-include_file: card no-name.16
-include_file: card no-name.17
-include_file: card no-name.18
-include_file: card no-name.19
 include_file: card blue common 1
 include_file: card blue uncommon 1
 include_file: card blue common 2
 include_file: card thing in the beer
+include_file: card no-name.12
+include_file: card no-name.13
+include_file: card no-name.14
+include_file: card no-name.15
+include_file: card no-name.16
+include_file: card green common creature 1
+include_file: card green uncommon creature 2
+include_file: card green uncommon creature 3
+include_file: card no-name.17
+include_file: card green uncommon creature 4
+include_file: card no-name.18
+include_file: card no-name.19
 include_file: card no-name.20
 include_file: card no-name.21
-include_file: card no-name.22
-include_file: card no-name.23
-include_file: card no-name.24
-include_file: card no-name.25
-include_file: card green uncommon 2
-include_file: card green uncommon 1
-include_file: card no-name.26
-include_file: card no-name.27
-include_file: card no-name.28
-include_file: card no-name.29
-include_file: card no-name.30
-include_file: card no-name.31
 include_file: card craterhoof beerhemoth
-include_file: card no-name.32
+include_file: card green uncommon creature 1
+include_file: card red uncommon creature 1
 keyword:
 	keyword: Consume
 	match: Consume <atom-param>number</atom-param>
@@ -68,13 +69,13 @@ keyword:
 keyword:
 	keyword: Drink Counter
 	match: Drink Counter<atom-param>*s</atom-param>
-	reminder: Whenever Drink Counters are removed from a Permanent you control, you must drink equal to how many were removed.
+	reminder: Whenever Drink Counters are removed from a Permanent you control, you must drink equal to how many were removed. If Players lose the game with Drink counters, they must Drink.
 	rules: 
 	mode: core
 keyword:
 	keyword: Drink Counter
 	match: <atom-param>number</atom-param> Drink Counter<atom-param>*s</atom-param>
-	reminder: Whenever {param1} Drink Counter{param2} are removed from a Permanent you control, you must drink {param1}.
+	reminder: Whenever {param1} Drink Counter{param2} are removed from a Permanent you control, you must drink {param1}. If Players lose the game with Drink counters, they must Drink.
 	rules: 
 	mode: core
 version_control:

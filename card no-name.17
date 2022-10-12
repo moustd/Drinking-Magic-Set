@@ -2,14 +2,20 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2022-09-26 12:57:18
-	time_modified: 2022-10-12 14:49:21
-	casting_cost: 2B
+	time_created: 2022-09-26 13:17:51
+	time_modified: 2022-10-12 17:28:51
+	casting_cost: 3GG
 	image: 
-	super_type: <word-list-type>Enchantment</word-list-type>
-	sub_type: <word-list-enchantment></word-list-enchantment>
-	rule_text: On your end step, draw cards and lose life equal to half the number of <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> you have rounded down
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Beast</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck>Trample</nospellcheck></kw-a> 
+		Enters the battlefield with <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> equal to the number of permanents you control with <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on them.
+		When this creature attacks, it gain power equal to the number of <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on it.
 	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
 	card_code_text: 
 	illustrator: Dalle 2
 	copyright: 

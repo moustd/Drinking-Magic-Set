@@ -2,18 +2,16 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2022-09-26 12:55:57
-	time_modified: 2022-10-12 14:48:45
-	casting_cost: 4BB
+	time_created: 2022-09-26 13:04:00
+	time_modified: 2022-10-12 14:49:54
+	casting_cost: 1U
 	image: 
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Horror</word-list-race><soft> </soft><word-list-class></word-list-class>
+	super_type: <word-list-type>Instant</word-list-type>
+	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
-		<kw-a><nospellcheck>Trample</nospellcheck></kw-a>
-		Whenever this creature deal combat damage to a player with more than <kw-a><nospellcheck><param-number>5</param-number> <kw-a>drink counter<param-*s>s</param-*s></nospellcheck></kw-a>, they lose the game.
+		You gain a <kw-a><nospellcheck>Drink Counter<param-*s><atom-kwpph>*s</atom-kwpph></param-*s></nospellcheck></kw-a>.
+		Counter target noncreature spell.
 	flavor_text: <i-flavor></i-flavor>
-	power: 6
-	toughness: 4
 	card_code_text: 
 	illustrator: Dalle 2
 	copyright: 

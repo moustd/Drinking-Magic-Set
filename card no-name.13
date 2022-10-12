@@ -2,16 +2,14 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2022-09-26 12:54:28
-	time_modified: 2022-10-12 14:50:07
-	casting_cost: B
+	time_created: 2022-09-26 13:02:43
+	time_modified: 2022-10-12 14:49:06
+	casting_cost: 3U
 	image: 
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Vampire</word-list-race><soft> </soft><word-list-class></word-list-class>
-	rule_text: when a drink counter is removed from a creature, its controller loses 1 life.
+	super_type: <word-list-type>Enchantment</word-list-type>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rule_text: Creatures you control with <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> cant be blocked by creatures.
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 1
 	card_code_text: 
 	illustrator: Dalle 2
 	copyright: 

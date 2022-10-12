@@ -1,0 +1,25 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 13:05:17
+	time_modified: 2022-10-12 16:26:43
+	name: Green Common Creature 1
+	casting_cost: G
+	image: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Elf</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rule_text:
+		<atom-cardname><nospellcheck>Green Common Creature 1</nospellcheck></atom-cardname> Enters the battlefield with a <kw-a><nospellcheck>Drink Counter<param-*s><atom-kwpph>*s</atom-kwpph></param-*s></nospellcheck></kw-a>.
+		<sym-auto>T</sym-auto>: Untap target land
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

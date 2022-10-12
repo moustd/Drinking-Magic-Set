@@ -1,0 +1,24 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 12:43:01
+	time_modified: 2022-10-12 16:33:33
+	name: Red Uncommon Sorcery 1
+	casting_cost: 1R
+	image: 
+	super_type: <word-list-type>Sorcery</word-list-type>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		You get a <kw-a><nospellcheck>Drink Counter<param-*s><atom-kwpph>*s</atom-kwpph></param-*s></nospellcheck></kw-a>*s.
+		Discard X , then Draw X where X is the number of <kw-a><nospellcheck>Drink Counter<param-*s>s</param-*s></nospellcheck></kw-a> you have.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

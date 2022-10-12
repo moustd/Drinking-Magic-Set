@@ -2,18 +2,14 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2022-09-26 12:53:58
-	time_modified: 2022-10-12 14:50:05
-	casting_cost: B
+	time_created: 2022-09-26 13:02:02
+	time_modified: 2022-10-12 14:49:27
+	casting_cost: 2U
 	image: 
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Vampire</word-list-race><soft> </soft><word-list-class></word-list-class>
-	rule_text:
-		<atom-cardname><nospellcheck>CARDNAME</nospellcheck></atom-cardname> enters the battlefield with a drink counter. 
-		When this creature dies, move its <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> to target creature.
+	super_type: <word-list-type>Enchantment</word-list-type>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rule_text: Whenever you cast a spell, put a drink counter on target permanent.
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 1
 	card_code_text: 
 	illustrator: Dalle 2
 	copyright: 

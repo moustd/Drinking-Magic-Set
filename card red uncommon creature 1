@@ -1,0 +1,26 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 12:41:41
+	time_modified: 2022-10-12 17:32:50
+	name: Red Uncommon Creature 1
+	casting_cost: 3R
+	image: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Dragon</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>, <kw-a><nospellcheck>Haste</nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Red Uncommon Creature 1</nospellcheck></atom-cardname> deal combat damage to a player, you gain a <kw-a><nospellcheck>Drink Counter<param-*s><atom-kwpph>*s</atom-kwpph></param-*s></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
