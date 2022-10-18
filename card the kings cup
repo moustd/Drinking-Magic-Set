@@ -3,9 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-10-18 12:06:14
-	time_modified: 2022-10-18 12:19:58
+	time_modified: 2022-10-18 17:49:00
 	name: The Kings Cup
 	casting_cost: 4
+	card_symbol: none
 	image: 
 	super_type: <word-list-type>Artifact</word-list-type>
 	sub_type: <word-list-artifact></word-list-artifact>

@@ -304,6 +304,7 @@ include_file: card blue rare instant 1
 include_file: card black rare instant 1
 include_file: card green common sorcery 1
 include_file: card green common sorcery 1.1
+include_file: card gray merchant of asphodel
 keyword:
 	keyword: Consume
 	match: Consume <atom-param>number</atom-param>
