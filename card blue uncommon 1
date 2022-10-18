@@ -11,8 +11,8 @@ card:
 	sub_type: <word-list-race>Wizard</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Blue Uncommon 1</nospellcheck></atom-cardname> enters the battlefield with a drink counter.
-		<sym-auto>T</sym-auto>: Add <sym>1</sym> mana equal to number of <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on this creature, use this mana only for Instant or Sorcery Spells.
+		<atom-cardname><nospellcheck>Blue Uncommon 1</nospellcheck></atom-cardname> enters the battlefield with a <kw-a><nospellcheck>drink counter</nospellcheck></kw-a>.
+		<sym-auto>T</sym-auto>: Add <sym>1</sym> mana equal to number of drink counters on this creature, use this mana only for Instant or Sorcery Spells.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

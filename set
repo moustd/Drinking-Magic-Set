@@ -10,8 +10,248 @@ set_info:
 	symbol: symbol7.mse-symbol
 	masterpiece_symbol: 
 styling:
+	magic-DayNight:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15:
 		color_indicator_dot: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-GoodBad:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-adventure:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-aftermath: text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-altered:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-augment:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-classicshifted:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-clear-color:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-clearartifact:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-conspiracy:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-devoid:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-doublefaced-leveler:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-doublefaced-singleside-borderfix:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-emblem:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-emblem-acorntail:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-emblem-cajun:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-emblem-name-cut:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-emblem-udelude:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-expedition:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-extra:
+		text_box_mana_symbols: magic-mana-small-extra-m15.mse-symbol-font
+		pt_box_symbols: magic-pt-symbols-extra.mse-symbol-font
+		overlay: 
+	magic-m15-extra-udelude:
+		text_box_mana_symbols: magic-mana-small-extra-udelude.mse-symbol-font
+		pt_box_symbols: magic-pt-symbols-extra.mse-symbol-font
+		overlay: 
+	magic-m15-flip:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-future:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-future-clear:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-future-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-godzilla:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-godzilla-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-godzilla-saga:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-grayscale:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-invocation: overlay: 
+	magic-m15-jinx:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-keyword:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-leveler-improved:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-dfc:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-planes: text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-mainframe-planes-mini: text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-mainframe-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-tokens:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-metropolis:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-nameonright:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-nonbasic-lands:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-outlaws:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-paradox:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeshifted:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeshifted-duplex:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeshifted-leveler:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeshifted-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeshifted-split:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeswalker-extra-purple:
+		text_box_mana_symbols: magic-mana-small-extra-m15-purple.mse-symbol-font
+		overlay: 
+	magic-m15-planeswalker-grayscale:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeswalker-pokemon:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeswalker-promo-black:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-saga:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-scroll:
+		text_box_mana_symbols: magic-mana-scroll.mse-symbol-font
+		overlay: 
+	magic-m15-scroll-demon:
+		text_box_mana_symbols: magic-mana-scroll-demon.mse-symbol-font
+		overlay: 
+	magic-m15-scroll-demon-planeswalker:
+		text_box_mana_symbols: magic-mana-scroll-demon.mse-symbol-font
+		overlay: 
+	magic-m15-showcase-dungeon-module:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-showcase-etched-foil:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-showcase-kaldheim:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-showcase-kaldheim-dfc:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-showcase-monster-manual:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-showcase-praetor:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-sketch:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-snow:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-spellbook:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-split:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-split-fusable:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-split-fuse:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-tall-tokens:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-tapped: text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-tapped-FULLART: text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-textless:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-textless-land: overlay: 
+	magic-m15-treasure-maps:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-tri-leveler:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-ttk-conspiracy:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-ttk-frames:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-vanguard:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-monarch-emblem:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-monarch-emblem-with-name:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-scifi:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-sync:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-windy-ultima:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 include_file: card drunk goblin
@@ -20,62 +260,60 @@ include_file: card red rare creature 2
 include_file: card jägerbomb
 include_file: card red uncommon sorcery 1
 include_file: card red uncommon sorcery 2
-include_file: card no-name
-include_file: card no-name.1
-include_file: card no-name.2
+include_file: card red uncommon enchantment 1
+include_file: card red uncommon enchantment 2
 include_file: card white common creature 1
 include_file: card white uncommon creature 1
 include_file: card white uncommon 2
-include_file: card no-name.3
-include_file: card no-name.4
-include_file: card no-name.5
-include_file: card no-name.6
+include_file: card white uncommon enchantment 1
+include_file: card white uncommon enchantment 2
+include_file: card white common sorcery 1
+include_file: card white common instant 1
 include_file: card black common creature 1
 include_file: card black common creature 2
 include_file: card black common creature 2.1
 include_file: card black rare creature 1
-include_file: card no-name.7
-include_file: card no-name.8
-include_file: card no-name.9
-include_file: card no-name.10
-include_file: card no-name.11
-include_file: card blue common 1
-include_file: card blue uncommon 1
-include_file: card blue common 2
+include_file: card black rare creature 2
+include_file: card black uncommon enchantment 1
+include_file: card black common instant 1
+include_file: card black common sorcery 1
+include_file: card blue common creature 1
+include_file: card blue uncommon creature 1
+include_file: card blue common creature 2
 include_file: card thing in the beer
-include_file: card no-name.12
-include_file: card no-name.13
-include_file: card no-name.14
-include_file: card no-name.15
-include_file: card no-name.16
+include_file: card blue uncommon enchantment 1
+include_file: card blue common enchantment 1
+include_file: card blue uncommon enchantment 2
+include_file: card blue common instant 1
+include_file: card blue rare sorcery 1
 include_file: card green common creature 1
 include_file: card green uncommon creature 2
 include_file: card green uncommon creature 3
-include_file: card no-name.17
+include_file: card green uncommon creature 5
 include_file: card green uncommon creature 4
-include_file: card no-name.18
-include_file: card no-name.19
-include_file: card no-name.20
-include_file: card no-name.21
+include_file: card green uncommon enchantment 1
+include_file: card green uncommon enchantment 2
+include_file: card green uncommon sorcery 1
+include_file: card green rare sorcery 1
 include_file: card craterhoof beerhemoth
 include_file: card green uncommon creature 1
 include_file: card red uncommon creature 1
+include_file: card the kings cup
+include_file: card blue common instant 2
+include_file: card blue rare instant 1
+include_file: card black rare instant 1
+include_file: card green common sorcery 1
+include_file: card green common sorcery 1.1
 keyword:
 	keyword: Consume
 	match: Consume <atom-param>number</atom-param>
-	reminder: Remove {english_number(param1)} Drink Counters from Yourself or a permanent you control.
+	reminder: Remove {english_number(param1)} Drink Counters from Yourself or a permanent you control. Take {param1} Drinks
 	rules: 
 	mode: action
 keyword:
 	keyword: Drink Counter
-	match: Drink Counter<atom-param>*s</atom-param>
-	reminder: Whenever Drink Counters are removed from a Permanent you control, you must drink equal to how many were removed. If Players lose the game with Drink counters, they must Drink.
-	rules: 
-	mode: core
-keyword:
-	keyword: Drink Counter
-	match: <atom-param>number</atom-param> Drink Counter<atom-param>*s</atom-param>
-	reminder: Whenever {param1} Drink Counter{param2} are removed from a Permanent you control, you must drink {param1}. If Players lose the game with Drink counters, they must Drink.
+	match: Drink Counter
+	reminder: Whenever a Permanent is removed from the battlefield with any number of Drink Counters, the controller of that Permanent Drinks equal to the number of Drink Counters it had. If a player loses the game with drink counters, they must drink equal to the number of Drink Counters they had.
 	rules: 
 	mode: core
 version_control:

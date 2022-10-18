@@ -11,8 +11,8 @@ card:
 	sub_type: <word-list-race>Horror</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rule_text:
 		<kw-a><nospellcheck>Defender</nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Thing in the Beer</nospellcheck></atom-cardname> enters the battlefield with <kw-a><nospellcheck><param-number>4</param-number> <kw-a>Drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on it. 
-		On each upkeep, move a drink counter from this to its owner, when the last counter is removed, sacrifice it and create a 7/9 Horror Creature Token with <kw-a><nospellcheck>Trample</nospellcheck></kw-a> and <kw-a><nospellcheck>Flying</nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Thing in the Beer</nospellcheck></atom-cardname> enters the battlefield with 4 Drink counters on it. 
+		On each upkeep, move a <kw-a><nospellcheck>drink counter</nospellcheck></kw-a> from this to its owner, when the last counter is removed, sacrifice it and create a 7/9 Horror Creature Token with <kw-a><nospellcheck>Trample</nospellcheck></kw-a> and <kw-a><nospellcheck>Flying</nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 3

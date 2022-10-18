@@ -3,17 +3,19 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-09-26 12:55:37
-	time_modified: 2022-10-12 16:10:41
+	time_modified: 2022-10-18 12:59:47
 	name: Black Rare Creature 1
 	casting_cost: 3BB
 	image: 
 	super_type: <word-list-type>Creature</word-list-type>
 	sub_type: <word-list-race>Vampire</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rarity: rare
-	rule_text: This creature enters the battlefield with a drink counter. On each players upkeep, they sacrifice a permanent with a drink counter on it
+	rule_text:
+		<atom-cardname><nospellcheck>Black Rare Creature 1</nospellcheck></atom-cardname> enters the battlefield with a <kw-a><nospellcheck>Drink Counter</nospellcheck></kw-a>.
+		On each players upkeep, they sacrifice a permanent with a <kw-a><nospellcheck>drink counter</nospellcheck></kw-a> on it
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
-	toughness: 4
+	toughness: 3
 	card_code_text: 
 	illustrator: Dalle 2
 	copyright: 

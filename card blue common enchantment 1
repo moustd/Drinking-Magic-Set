@@ -1,0 +1,21 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 13:02:43
+	time_modified: 2022-10-18 12:28:41
+	name: Blue Common Enchantment 1
+	casting_cost: 3U
+	image: 
+	super_type: <word-list-type>Enchantment</word-list-type>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rule_text: Creatures you control with drink counters cant be blocked by creatures.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

@@ -10,7 +10,7 @@ card:
 	super_type: <word-list-type>Creature</word-list-type>
 	sub_type: <word-list-race>Goblin</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rarity: rare
-	rule_text: Whenever <atom-cardname><nospellcheck>Red Rare Creature 2</nospellcheck></atom-cardname> attacks, put a drink counter on it, then create 1/1 Goblin create tokens equal to the number of <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on this.
+	rule_text: Whenever <atom-cardname><nospellcheck>Red Rare Creature 2</nospellcheck></atom-cardname> attacks, put a <kw-a><nospellcheck>drink counter</nospellcheck></kw-a> on it, then create 1/1 Goblin create tokens equal to the number of drink counters on this.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

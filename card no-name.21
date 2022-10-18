@@ -8,7 +8,7 @@ card:
 	image: 
 	super_type: <word-list-type>Sorcery</word-list-type>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Reveal the top cards of your library equal to the number of <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> you have, put all permanents on the battlefield, exile the rest.
+	rule_text: Reveal the top cards of your library equal to the number of drink counters you have, put all permanents on the battlefield, exile the rest.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	illustrator: Dalle 2

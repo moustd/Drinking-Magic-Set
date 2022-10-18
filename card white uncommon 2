@@ -10,7 +10,7 @@ card:
 	super_type: <word-list-type>Creature</word-list-type>
 	sub_type: <word-list-race>Bard</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rarity: uncommon
-	rule_text: When one or more creatures with a drink counter attacks or blocks,  you gain 2 life
+	rule_text: When one or more creatures with a <kw-a><nospellcheck>drink counter</nospellcheck></kw-a> attacks or blocks,  you gain 2 life
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

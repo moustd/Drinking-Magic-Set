@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-09-26 13:19:01
-	time_modified: 2022-10-12 14:48:49
+	time_modified: 2022-10-18 12:58:06
 	name: Craterhoof Beerhemoth
 	casting_cost: 3GG
 	image: 
@@ -12,11 +12,11 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck>Trample</nospellcheck></kw-a>, <kw-a><nospellcheck>Haste</nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Craterhoof Beerhemoth</nospellcheck></atom-cardname> Enters the Battlefield with <kw-a><nospellcheck><param-number>2</param-number> <kw-a>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on it.
-		When <atom-cardname><nospellcheck>Craterhoof Beerhemoth</nospellcheck></atom-cardname> enters the battlefield, creatures you control gain +X/+X , <kw-a><nospellcheck>Trample</nospellcheck></kw-a> and <kw-a><nospellcheck>Haste</nospellcheck></kw-a>, where X is the highest number of <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on a creature you control.
+		<atom-cardname><nospellcheck>Craterhoof Beerhemoth</nospellcheck></atom-cardname> Enters the Battlefield with 2 drink counters on it.
+		When <atom-cardname><nospellcheck>Craterhoof Beerhemoth</nospellcheck></atom-cardname> enters the battlefield, creatures you control gain +X/+X , <kw-a><nospellcheck>Trample</nospellcheck></kw-a> and <kw-a><nospellcheck>Haste</nospellcheck></kw-a>, where X is the highest number of drink counters on a creature you control.
 	flavor_text: <i-flavor></i-flavor>
-	power: 5
-	toughness: 5
+	power: 4
+	toughness: 4
 	card_code_text: 
 	illustrator: Dalle 2
 	copyright: 

@@ -11,8 +11,8 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		You get a <kw-a><nospellcheck>Drink Counter<param-*s><atom-kwpph>*s</atom-kwpph></param-*s></nospellcheck></kw-a>*s.
-		Create two 1/1 Goblin Creature Tokens, they enter the battlefield with a drink counter.
+		You get a <kw-a><nospellcheck>Drink Counter</nospellcheck></kw-a>*s.
+		Create two 1/1 Goblin Creature Tokens, they enter the battlefield with a <kw-a><nospellcheck>drink counter</nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	illustrator: Dalle 2

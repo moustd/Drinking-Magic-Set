@@ -8,7 +8,7 @@ card:
 	image: 
 	super_type: <word-list-type>Enchantment</word-list-type>
 	sub_type: <word-list-enchantment></word-list-enchantment>
-	rule_text: Creatures you control with <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> cant be blocked by creatures.
+	rule_text: Creatures you control with drink counters cant be blocked by creatures.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	illustrator: Dalle 2

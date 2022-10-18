@@ -9,7 +9,7 @@ card:
 	super_type: <word-list-type>Instant</word-list-type>
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
-		You gain a <kw-a><nospellcheck>Drink Counter<param-*s><atom-kwpph>*s</atom-kwpph></param-*s></nospellcheck></kw-a>.
+		You gain a <kw-a><nospellcheck>Drink Counter</nospellcheck></kw-a>.
 		Counter target noncreature spell.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 

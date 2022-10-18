@@ -1,0 +1,22 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 12:57:18
+	time_modified: 2022-10-18 12:26:56
+	name: Black Uncommon Enchantment 1
+	casting_cost: 2B
+	image: 
+	super_type: <word-list-type>Enchantment</word-list-type>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text: On your end step, draw cards and lose life equal to half the number of drink counters you have rounded down
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

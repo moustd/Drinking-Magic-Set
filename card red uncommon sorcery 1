@@ -11,8 +11,8 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		You get a <kw-a><nospellcheck>Drink Counter<param-*s><atom-kwpph>*s</atom-kwpph></param-*s></nospellcheck></kw-a>*s.
-		Discard X , then Draw X where X is the number of <kw-a><nospellcheck>Drink Counter<param-*s>s</param-*s></nospellcheck></kw-a> you have.
+		You get a <kw-a><nospellcheck>Drink Counter</nospellcheck></kw-a>*s.
+		Discard X , then Draw X where X is the number of Drink Counters you have.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	illustrator: Dalle 2

@@ -1,0 +1,24 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 13:20:58
+	time_modified: 2022-10-18 12:44:24
+	name: Green Common Sorcery 1
+	casting_cost: 1G
+	image: 
+	super_type: <word-list-type>Sorcery</word-list-type>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		You gain 1 <kw-a><nospellcheck>Drink Counter</nospellcheck></kw-a>.
+		Destroy Target Artifact or Enchantment.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

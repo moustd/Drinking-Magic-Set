@@ -10,7 +10,7 @@ card:
 	super_type: <word-list-type>Creature</word-list-type>
 	sub_type: <word-list-race>Elf</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rule_text:
-		<atom-cardname><nospellcheck>Green Common Creature 1</nospellcheck></atom-cardname> Enters the battlefield with a <kw-a><nospellcheck>Drink Counter<param-*s><atom-kwpph>*s</atom-kwpph></param-*s></nospellcheck></kw-a>.
+		<atom-cardname><nospellcheck>Green Common Creature 1</nospellcheck></atom-cardname> Enters the battlefield with a <kw-a><nospellcheck>Drink Counter</nospellcheck></kw-a>.
 		<sym-auto>T</sym-auto>: Untap target land
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

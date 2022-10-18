@@ -8,7 +8,7 @@ card:
 	image: 
 	super_type: <word-list-type>Sorcery</word-list-type>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Return all creatures with <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on them to players hands
+	rule_text: Return all creatures with drink counters on them to players hands
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	illustrator: Dalle 2

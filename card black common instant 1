@@ -1,0 +1,21 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 12:57:33
+	time_modified: 2022-10-18 12:34:49
+	name: Black Common Instant 1
+	casting_cost: 2B
+	image: 
+	super_type: <word-list-type>Instant</word-list-type>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Destroy target creature with a <kw-a><nospellcheck>drink counter</nospellcheck></kw-a> on it
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

@@ -12,8 +12,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck>Defender</nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Green Uncommon Creature 2</nospellcheck></atom-cardname> Enters the battlefield with a <kw-a><nospellcheck>Drink Counter<param-*s><atom-kwpph>*s</atom-kwpph></param-*s></nospellcheck></kw-a>.
-		<sym-auto>T</sym-auto>: Add mana of any color equal to the number of permanents you control with <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Green Uncommon Creature 2</nospellcheck></atom-cardname> Enters the battlefield with a <kw-a><nospellcheck>Drink Counter</nospellcheck></kw-a>.
+		<sym-auto>T</sym-auto>: Add mana of any color equal to the number of permanents you control with drink counters
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

@@ -3,17 +3,18 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-09-26 12:44:59
-	time_modified: 2022-10-12 16:28:41
+	time_modified: 2022-10-17 17:48:59
 	name: White Common Creature 1
 	casting_cost: W
 	image: 
 	super_type: <word-list-type>Creature</word-list-type>
 	sub_type: <word-list-race>Bard</word-list-race><soft> </soft><word-list-class></word-list-class>
-	rule_text: Whenever any number of <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> are placed on a creature or a player, gain 1 life.
+	rule_text: Whenever any number of drink counters are placed on a creature or a player, you gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
 	card_code_text: 
+	card_code_text_2: 
 	illustrator: Dalle 2
 	copyright: 
 	image_2: 
@@ -21,3 +22,4 @@ card:
 	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	special_text: 

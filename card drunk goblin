@@ -12,7 +12,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck>Haste</nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Drunk Goblin</nospellcheck></atom-cardname> enters the battlefield with a <kw-a><nospellcheck>Drink Counter<param-*s><atom-kwpph>*s</atom-kwpph></param-*s></nospellcheck></kw-a>.
+		<atom-cardname><nospellcheck>Drunk Goblin</nospellcheck></atom-cardname> enters the battlefield with a <kw-a><nospellcheck>Drink Counter</nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

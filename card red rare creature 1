@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-09-26 12:41:41
-	time_modified: 2022-10-12 16:13:31
+	time_modified: 2022-10-18 12:58:52
 	name: Red Rare Creature 1
 	casting_cost: 3RR
 	image: 
@@ -12,10 +12,10 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>, <kw-a><nospellcheck>Haste</nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Red Rare Creature 1</nospellcheck></atom-cardname> Enters the battlefield with 2.
-		<kw-A><nospellcheck>Consume <param-number>1</param-number></nospellcheck>: <atom-cardname><nospellcheck>Red Rare Creature 1</nospellcheck></atom-cardname> gains +2/+2 until the next end step.<atom-reminder-action> <i-auto>(Remove <param-number>one</param-number> Drink Counters from Yourself or a permanent you control.)</i-auto></atom-reminder-action></kw-A>
+		<atom-cardname><nospellcheck>Red Rare Creature 1</nospellcheck></atom-cardname> Enters the battlefield with 2 Drink Counters.
+		<kw-A><nospellcheck>Consume <param-number>1</param-number></nospellcheck>: <atom-cardname><nospellcheck>Red Rare Creature 1</nospellcheck></atom-cardname> gains +2/+2 until the next end step.<atom-reminder-action> <i-auto>(Remove <param-number>one</param-number> Drink Counters from Yourself or a permanent you control. Take <param-number>1</param-number> Drinks)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
-	power: 3
+	power: 4
 	toughness: 3
 	card_code_text: 
 	illustrator: Dalle 2

@@ -1,0 +1,23 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 13:04:00
+	time_modified: 2022-10-18 12:36:55
+	name: Blue Common Instant 1
+	casting_cost: 2U
+	image: 
+	super_type: <word-list-type>Instant</word-list-type>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		You gain a <kw-a><nospellcheck>Drink Counter</nospellcheck></kw-a>.
+		Counter target spell.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

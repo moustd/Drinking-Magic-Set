@@ -1,0 +1,24 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 12:51:11
+	time_modified: 2022-10-18 12:24:01
+	name: White Uncommon Enchantment 1
+	casting_cost: 2W
+	image: 
+	super_type: <word-list-type>Enchantment</word-list-type>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>White Uncommon Enchantment 1</nospellcheck></atom-cardname> enters the battlefield with a <kw-a><nospellcheck>drink counter</nospellcheck></kw-a> on it.
+		When <atom-cardname><nospellcheck>White Uncommon Enchantment 1</nospellcheck></atom-cardname>  enters the battlefield, Exile target permanent until <atom-cardname><nospellcheck>White Uncommon Enchantment 1</nospellcheck></atom-cardname> is removed from the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

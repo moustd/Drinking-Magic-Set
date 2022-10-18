@@ -12,7 +12,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck>Trample</nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Green Uncommon Creature 1</nospellcheck></atom-cardname> costs <sym-auto>X</sym-auto> less, where X is the number of permanents you control with <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a>.
+		<atom-cardname><nospellcheck>Green Uncommon Creature 1</nospellcheck></atom-cardname> costs <sym-auto>X</sym-auto> less, where X is the number of permanents you control with drink counters.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5

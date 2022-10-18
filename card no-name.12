@@ -8,7 +8,7 @@ card:
 	image: 
 	super_type: <word-list-type>Enchantment</word-list-type>
 	sub_type: <word-list-enchantment></word-list-enchantment>
-	rule_text: Whenever you cast a spell, put a drink counter on target permanent.
+	rule_text: Whenever you cast a spell, put a <kw-a><nospellcheck>drink counter</nospellcheck></kw-a> on target permanent.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	illustrator: Dalle 2

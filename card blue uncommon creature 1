@@ -1,0 +1,26 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 12:58:53
+	time_modified: 2022-10-18 13:00:04
+	name: Blue Uncommon Creature 1
+	casting_cost: 2U
+	image: 
+	super_type: <word-list-type>Creature</word-list-type>
+	sub_type: <word-list-race>Wizard</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Blue Uncommon Creature 1</nospellcheck></atom-cardname> enters the battlefield with a <kw-a><nospellcheck>drink counter</nospellcheck></kw-a>.
+		<sym-auto>T</sym-auto>: Add <sym>1</sym> mana equal to number of drink counters on this creature, use this mana only for Instant or Sorcery Spells.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

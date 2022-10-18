@@ -1,0 +1,25 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-10-18 12:06:14
+	time_modified: 2022-10-18 12:19:58
+	name: The Kings Cup
+	casting_cost: 4
+	image: 
+	super_type: <word-list-type>Artifact</word-list-type>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: mythic rare
+	rule_text:
+		<atom-cardname><nospellcheck>The Kings Cup</nospellcheck></atom-cardname> Enters the battlefield with 4 Charge Counters.
+		<sym-auto>T</sym-auto>: Random Opponent Pours an amount of Alcohol into the cup, <atom-cardname><nospellcheck>The Kings Cup</nospellcheck></atom-cardname> remove a charge Counter. If <atom-cardname><nospellcheck>The Kings Cup</nospellcheck></atom-cardname> has zero Charge Counters on it, the Target Opponent drinks the cup, then <atom-cardname><nospellcheck>The Kings Cup</nospellcheck></atom-cardname> Gains 4 Charge Counters.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

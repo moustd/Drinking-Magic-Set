@@ -8,7 +8,7 @@ card:
 	image: 
 	super_type: <word-list-type>Enchantment</word-list-type>
 	sub_type: <word-list-enchantment></word-list-enchantment>
-	rule_text: When a creature enters the battlefield, draw cards equal to the number of <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on it.
+	rule_text: When a creature enters the battlefield, draw cards equal to the number of drink counters on it.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	illustrator: Dalle 2

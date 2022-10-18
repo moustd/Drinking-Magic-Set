@@ -8,7 +8,7 @@ card:
 	image: 
 	super_type: <word-list-type>Sorcery</word-list-type>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Draw cards equal to the number of <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on creatures you control
+	rule_text: Draw cards equal to the number of drink counters on creatures you control
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	illustrator: Dalle 2

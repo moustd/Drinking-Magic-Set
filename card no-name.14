@@ -11,7 +11,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck>Enchant <param-name>Creature</param-name></nospellcheck></kw-a>
 		Enchanted creature get +1/+1 and <kw-a><nospellcheck>flying</nospellcheck></kw-a>.
-		When enchanted creature attacks, scry equal to the number of <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on enchanted creature, then draw.
+		When enchanted creature attacks, scry equal to the number of drink counters on enchanted creature, then draw.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	illustrator: Dalle 2

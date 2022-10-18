@@ -9,7 +9,7 @@ card:
 	image: 
 	super_type: <word-list-type>Creature</word-list-type>
 	sub_type: <word-list-race>Wizard</word-list-race><soft> </soft><word-list-class></word-list-class>
-	rule_text: When this creature enters the battlefield, you get <kw-a><nospellcheck><param-number>2</param-number> <kw-a>drink counter<param-*s>s</param-*s></nospellcheck></kw-a>.
+	rule_text: When this creature enters the battlefield, you get 2 drink counters.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

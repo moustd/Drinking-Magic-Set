@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-09-26 12:41:41
-	time_modified: 2022-10-12 17:32:50
+	time_modified: 2022-10-18 12:56:35
 	name: Red Uncommon Creature 1
 	casting_cost: 3R
 	image: 
@@ -12,7 +12,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>, <kw-a><nospellcheck>Haste</nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Red Uncommon Creature 1</nospellcheck></atom-cardname> deal combat damage to a player, you gain a <kw-a><nospellcheck>Drink Counter<param-*s><atom-kwpph>*s</atom-kwpph></param-*s></nospellcheck></kw-a>.
+		Whenever <atom-cardname><nospellcheck>Red Uncommon Creature 1</nospellcheck></atom-cardname> deals combat damage to a player, you gain a <kw-a><nospellcheck>Drink Counter</nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

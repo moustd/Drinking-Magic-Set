@@ -11,7 +11,7 @@ card:
 	sub_type: <word-list-race>Wizard</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rule_text:
 		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Blue Common 2</nospellcheck></atom-cardname> enters the battlefield, you get 1 drink counter.
+		When <atom-cardname><nospellcheck>Blue Common 2</nospellcheck></atom-cardname> enters the battlefield, you get 1 <kw-a><nospellcheck>drink counter</nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2

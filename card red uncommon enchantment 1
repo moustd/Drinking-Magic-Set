@@ -1,0 +1,22 @@
+﻿mse_version: 2.1.2
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-09-26 12:44:08
+	time_modified: 2022-10-18 12:23:23
+	name: Red Uncommon Enchantment 1
+	casting_cost: 3R
+	image: 
+	super_type: <word-list-type>Enchantment</word-list-type>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text: On each players upkeep, <atom-cardname><nospellcheck>Red Uncommon Enchantment 1</nospellcheck></atom-cardname> deals damage to them equal to the number of <kw-a><nospellcheck>drink counter</nospellcheck></kw-a> you have.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: Dalle 2
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 

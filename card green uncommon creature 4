@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-09-26 13:19:01
-	time_modified: 2022-10-12 17:30:19
+	time_modified: 2022-10-18 12:58:30
 	name: Green Uncommon Creature 4
 	casting_cost: 3GG
 	image: 
@@ -12,10 +12,10 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck>Trample</nospellcheck></kw-a>
-		Whenever a creature you control dies, if it had <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a>, put <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> on this creature equal to the number of <kw-a><nospellcheck>drink counter<param-*s>s</param-*s></nospellcheck></kw-a> it had.
+		Whenever a creature you control dies, if it had drink counters, put drink counters on this creature equal to the number of drink counters it had.
 	flavor_text: <i-flavor></i-flavor>
-	power: 5
-	toughness: 5
+	power: 4
+	toughness: 4
 	card_code_text: 
 	illustrator: Dalle 2
 	copyright: 
